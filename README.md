@@ -1,4 +1,4 @@
-# Projeto Android
+# Projeto Social
 
 Primeiro projeto do quarto módulo do curso de HTML e CSS do [Gustavo Guanabara](https://github.com/gustavoguanabara) do canal [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo). Projeto desenvolvido no intuito de demonstrar o funcionamento do iframe. O site em si mostra as redes sociais do [Gustavo Guanabara](https://github.com/gustavoguanabara) dentro de um celular.
 
